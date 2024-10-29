@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #C9E3C9;
+}
+
+section {
+  padding: 60px 20px;
+   /* Offset for fixed navbar */
+}
+
+h2 {
+  color: #333;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
